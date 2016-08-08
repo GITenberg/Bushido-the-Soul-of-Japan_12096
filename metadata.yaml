@@ -1,0 +1,38 @@
+_repo: Bushido-the-Soul-of-Japan_12096
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nitobe, Inazo
+    alias: 新渡戶稲造
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '4225'
+    url: http://www.gutenberg.org/2009/agents/4225
+    wikipedia: http://en.wikipedia.org/wiki/Inazo_Nitobe
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Samurai -- History'
+- !lcsh 'Japan -- Civilization'
+- !lcsh 'Japan -- Social life and customs'
+- !lcc 'BJ'
+- !lcc 'CR'
+- !lcsh 'Philosophy, Japanese'
+- !lcsh 'Ethics -- Japan'
+- !lcsh 'Bushido'
+- GITenberg
+tableOfContents: Bushido as an ethical system -- Sources of Bushido -- Rectitude or
+  justice -- Courage, the spirit of daring and bearing -- Benevolence, the feeling
+  of distress -- Politeness -- Veracity or truthfulness -- Honor -- The duty of loyalty
+  -- Education and training of a Samurai -- Self-control -- The institutions of suicide
+  and redress -- The sword, the soul of the Samurai -- The training and position of
+  woman -- The influence of Bushido -- Is Bushido still alive? -- The future of Bushido.
+title: Bushido, the Soul of Japan
+url: http://www.gutenberg.org/ebooks/12096

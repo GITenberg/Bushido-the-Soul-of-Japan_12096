@@ -653,7 +653,7 @@ authority in _Giri_. Very rightly did they formulate this
 authority--_Giri_--since if love does not rush to deeds of virtue,
 recourse must be had to man's intellect and his reason must be quickened
 to convince him of the necessity of acting aright. The same is true of
-any other moral obligation. The instant Duty becomes onerous. Right
+any other moral obligation. The instant Duty becomes onerous, Right
 Reason steps in to prevent our shirking it. _Giri_ thus understood is a
 severe taskmaster, with a birch-rod in his hand to make sluggards
 perform their part. It is a secondary power in ethics; as a motive it
@@ -674,7 +674,7 @@ cowardly fear of censure. I might say of _Giri_ what Scott wrote of
 patriotism, that "as it is the fairest, so it is often the most
 suspicious, mask of other feelings." Carried beyond or below Right
 Reason, _Giri_ became a monstrous misnomer. It harbored under its wings
-every sort of sophistry and hypocrisy. It might easily--have been turned
+every sort of sophistry and hypocrisy. It might easily have been turned
 into a nest of cowardice, if Bushido had not a keen and correct sense of
 
 
@@ -755,10 +755,10 @@ menacing presence of danger or death, retains his self-possession; who,
 for instance, can compose a poem under impending peril or hum a strain
 in the face of death. Such indulgence betraying no tremor in the writing
 or in the voice, is taken as an infallible index of a large nature--of
-what we call a capacious mind (_yoyū_), which, for from being pressed or
+what we call a capacious mind (_yoyu_), which, for from being pressed or
 crowded, has always room for something more.
 
-It passes current among us as a piece of authentic history, that as Ōta
+It passes current among us as a piece of authentic history, that as Ota
 Dokan, the great builder of the castle of Tokyo, was pierced through
 with a spear, his assassin, knowing the poetical predilection of his
 victim, accompanied his thrust with this couplet--
@@ -805,12 +805,12 @@ fourteen years with Shingen, when he heard of the latter's death, wept
 aloud at the loss of "the best of enemies." It was this same Kenshin who
 had set a noble example for all time, in his treatment of Shingen,
 whose provinces lay in a mountainous region quite away from the sea, and
-who had consequently depended upon the Hōjō provinces of the Tokaido for
-salt. The Hōjō prince wishing to weaken him, although not openly at war
+who had consequently depended upon the Hojo provinces of the Tokaido for
+salt. The Hojo prince wishing to weaken him, although not openly at war
 with him, had cut off from Shingen all traffic in this important
 article. Kenshin, hearing of his enemy's dilemma and able to obtain his
 salt from the coast of his own dominions, wrote Shingen that in his
-opinion the Hōjō lord had committed a very mean act, and that although
+opinion the Hojo lord had committed a very mean act, and that although
 he (Kenshin) was at war with him (Shingen) he had ordered his subjects
 to furnish him with plenty of salt--adding, "I do not fight with salt,
 but with the sword," affording more than a parallel to the words of
@@ -1738,7 +1738,7 @@ or king. Thomas Mowbray was a veritable spokesman for us when he said:
 
 A man who sacrificed his own conscience to the capricious will or freak
 or fancy of a sovereign was accorded a low place in the estimate of the
-Precepts. Such an one was despised as _nei-shin_, a cringeling, who
+Precepts. Such a one was despised as _nei-shin_, a cringeling, who
 makes court by unscrupulous fawning or as _chô-shin_, a favorite who
 steals his master's affections by means of servile compliance; these two
 species of subjects corresponding exactly to those which Iago
@@ -1911,7 +1911,7 @@ hard-hearted. Yet we are really as susceptible to tender emotion as any
 race under the sky.
 
 I am inclined to think that in one sense we have to feel more than
-others--yes, doubly more--since the very attempt to, restrain natural
+others--yes, doubly more--since the very attempt to restrain natural
 promptings entails suffering. Imagine boys--and girls too--brought up
 not to resort to the shedding of a tear or the uttering of a groan for
 the relief of their feelings,--and there is a physiological problem
@@ -2038,7 +2038,7 @@ THE INSTITUTIONS OF SUICIDE
 AND REDRESS,
 
 of which (the former known as _hara-kiri_ and the latter as
-_kataki-uchi_ )many foreign writers have treated more or less fully.
+_kataki-uchi_) many foreign writers have treated more or less fully.
 
 To begin with suicide, let me state that I confine my observations only
 to _seppuku_ or _kappuku_, popularly known as _hara-kiri_--which means
@@ -2646,7 +2646,7 @@ short years ago, my heart hath followed thee, even as its shadow
 followeth an object, inseparably bound heart to heart, loving and being
 loved. Learning but recently, however, that the coming battle is to be
 the last of thy labor and life, take the farewell greeting of thy loving
-partner. I have heard that Kō-u, the mighty warrior of ancient China,
+partner. I have heard that Ko-u, the mighty warrior of ancient China,
 lost a battle, loth to part with his favorite Gu. Yoshinaka, too, brave
 as he was, brought disaster to his cause, too weak to bid prompt
 farewell to his wife. Why should I, to whom earth no longer offers hope
@@ -3303,7 +3303,7 @@ than citizens, being men.
 
 Though war clouds hang heavy upon our horizon, we will believe that the
 wings of the angel of peace can disperse them. The history of the world
-confirms the prophecy the "the meek shall inherit the earth." A nation
+confirms the prophecy that "the meek shall inherit the earth." A nation
 that sells its birthright of peace, and backslides from the front rank
 of Industrialism into the file of Filibusterism, makes a poor bargain
 indeed!
